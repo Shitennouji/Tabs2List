@@ -1,0 +1,299 @@
+{
+	"extension_name": {
+		"message": "Tabs2List"
+	},
+	"extension_description": {
+		"message": "サイドバーのタブのリストをポップアップとして作成します。"
+	},
+	"Chronic": {
+		"message": "履歴"
+	},
+	"TabsList": {
+		"message": "タブのリスト"
+	},
+	"History": {
+		"message": "最近閉じたタブ"
+	},
+	"LastVisit": {
+		"message": "最後の訪問"
+	},
+	"Untitled": {
+		"message": "無題"
+	},
+	"NewTab": {
+		"message": "新しいタブを開く (Strg+T)"
+	},
+	"HideAllTabs": {
+		"message": "タブバーのすべてのタブを非表示にする"
+	},
+	"DelHistory": {
+		"message": "最近閉じたすべてのタブのリストをクリアします"
+	},
+	"Options": {
+		"message": "オプション"
+	},
+	"OP_Headline_Options": {
+		"message": "設定"
+	},
+	"H_Info": {
+		"message": "情報"
+	},	
+	"OP_maxHistory": {
+		"message": "最近閉じたタブの最大数"
+	},
+	"OP_link_about": {
+		"message": "https://support.mozilla.org/en-US/kb/about-config-editor-firefox"
+	},
+	"OP_link_license": {
+		"message": "https://creativecommons.org/licenses/by/3.0/deed.en"
+	},	
+	"hideTab": {
+		"message": "タブバーでこのタブを非表示にします"
+	},
+	"closeTab": {
+		"message": "このタブを閉じる"
+	},
+	"reloadTab": {
+		"message": "このタブを再読み込み"
+	},
+	"pinTab": {
+		"message": "ピン留め、またはこのタブのピン留めを解除"
+	},
+	"closeSession": {
+		"message": "このタブを閉じる"
+	},
+	"Export": {
+		"message": "リストを HTML または CSV としてエクスポート"
+	},
+	"exportHTML": {
+		"message": "HTML でエクスポート"
+	},
+	"exportCSV": {
+		"message": "CSV でエクスポート"
+	},
+	"OP_Options": {
+		"message": "設定"
+	},
+	"OP_Infos": {
+		"message": "情報"
+	},
+	"OP_ColorScheme": {
+		"message": "カラースキーム（配色）"
+	},
+	"OP_ColorScheme_txt": {
+		"message": "ここでカラースキーム（配色）を選択できます。"
+	},
+	"OP_theme_light": {
+		"message": "明るいテーマ"
+	},
+	"OP_theme_dark": {
+		"message": "暗いテーマ"
+	},
+	"OP_ListDisplay": {
+		"message": "リストの見出し"
+	},
+	"OP_ListDisplay_txt": {
+		"message": "デフォルトでは、テキストが長すぎる場合、リストの見出しのタイトルは折り返されます。単一行のビューが必要な場合は、このオプションを有効にします。"
+	},
+	"OP_ListFontSize": {
+		"message": "フォントのサイズ"
+	},
+	"OP_ListFontSize_txt": {
+		"message": "ここで、リストの見出しのフォントのサイズを定義できます。"
+	},
+	"OP_maxHistory_txt": {
+		"message": "実際の最大数は、キーの定義値に依存します "
+	},
+	"AutoHide": {
+		"message": "自動的に、アクティブでないタブを非表示にします"
+	},
+	"OP_AutoInterval": {
+		"message": "タブを自動的に非表示にする"
+	},
+	"OP_AutoInterval_txt": {
+		"message": "ここでは、自動非表示が有効になっている場合に、非アクティブタブを非表示にするまでの遅延時間（分単位）を定義できます"
+	},
+	"H_About": {
+		"message": "この拡張機能について"
+	},
+	"H_Features": {
+		"message": "特長"
+	},
+	"H_Permissions": {
+		"message": "権限"
+	},
+	"H_Attribution": {
+		"message": "属性"
+	},
+	"Attribution_IconsBy": {
+		"message": "いくつかの（変更された）アイコン"
+	},
+	"Attribution_License": {
+		"message": "以下のライセンス"
+	},
+	"PH_Search": {
+		"message": "検索タブ"
+	},
+	"About_A": {
+		"message": "この拡張機能を使って、タブをサイドバーやポップアップのリストとして表示できます。 2番目のビューには最近閉じたタブが一覧表示されます。 さまざまな標準機能に加えて、タブバーのタブは手動または自動で非表示にすることができます。 これにより、ブラウザで使用されるリソースを減らすことができ、タブバーの概要がわかりやすくなります。 非表示のタブは表示されたままですぐにリストにアクセスできます"
+	},
+	"Features_A": {
+		"message": "アイコンをクリックしてアクティブにできるいくつかの機能を提供します。 それらの記号については、ここで手短に説明します:"
+	},
+	"Features_create": {
+		"message": "- 新しいタブを開きます。"
+	},
+	"Features_close": {
+		"message": "- タブが閉じられます。"
+	},
+	"Features_pin": {
+		"message": "- タブは、現在の状態に応じて固定または固定解除されます。"
+	},
+	"Features_reload": {
+		"message": "- アクティブなタブが再読み込みされます。"
+	},
+	"Features_hide": {
+		"message": "- タブは非表示になります。"
+	},
+	"Features_hideAll": {
+		"message": "- 可能であれば、すべてのタブが非表示になります。"
+	},
+	"Features_export": {
+		"message": "- この機能を使用すると、現在のタブリストを HTML または CSV としてエクスポートできます"
+	},
+	"Features_autoHide": {
+		"message": "- 自動非表示機能を有効または無効にします。"
+	},
+	"Features_search": {
+		"message": "- 検索機能を有効または無効にします。"
+	},
+	"Features_deleteHistory": {
+		"message": "- 最近閉じた全てのタブのリストが削除されます。"
+	},
+	"Features_options": {
+		"message": "- 設定ページを開きます。"
+	},
+	"H_Function_Detail": {
+		"message": "詳細"
+	},
+	"Function_H_Detail_HideTabs": {
+		"message": "タブを非表示にします"
+	},
+	"Function_Detail_HideTabs_A": {
+		"message": "個別または全てのタブを手動または自動で非表示にすることができます。 ただし、一定の制限があります。 次のタブは非表示にできません:"
+	},
+	"HideTabs_Restriction_A": {
+		"message": "ピン留めされたタブ"
+	},
+	"HideTabs_Restriction_B": {
+		"message": "スクリーン、マイク、カメラを共有しているタブ"
+	},
+	"HideTabs_Restriction_C": {
+		"message": "現在アクティブなタブ"
+	},
+	"HideTabs_Restriction_D": {
+		"message": "閉じられている途中のタブ"
+	},
+	"Function_Detail_HideTabs_B": {
+		"message": "音声信号を提供するタブについても、別の例外があります。 ピン留めされたタブは非表示にできませんが、この拡張機能はリソースを保護するためにその内容をアンロードします。 自動非表示機能を有効にした場合、指定した期間内にタブが使用されていないとタブは非表示になります。 この時間間隔はオプションで指定できます。"
+	},
+	"Function_Detail_HideTabs_C": {
+		"message": "注: Firefox のバージョン 61 以上を使用している場合にのみタブを非表示にすることができます。 バージョン 60 の場合、次の設定を最初に true に変更する必要があります。 \"true\":"
+	},
+	"H_Symbols": {
+		"message": "リスト記号"
+	},
+	"Symbols_A": {
+		"message": "以下の意味を持つ一部の記号がリストで使用されています:"
+	},
+	"Symbols_B": {
+		"message": "- ピン留めされたタブ"
+	},
+	"Symbols_C": {
+		"message": "- 破棄された内容のタブ"
+	},
+	"Symbols_D": {
+		"message": "- 非表示のタブ"
+	},
+	"Symbols_E": {
+		"message": "- 例えば、独自のアイコンを持たないタブの標準記号"
+	},
+	"Tab_zero": {
+		"message": "",
+		"description": "LOCALIZATION NOTE: Please specify the correct plural form for this category. If this plural form is not used in your language, leave the string empty. You need not translate this string. More info: http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html"
+	},
+	"Tab_one": {
+		"message": "Tab",
+		"description": "LOCALIZATION NOTE: Please specify the correct plural form for this category. If this plural form is not used in your language, leave the string empty. You need not translate this string. More info: http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html"
+	},
+	"Tab_two": {
+		"message": "",
+		"description": "LOCALIZATION NOTE: Please specify the correct plural form for this category. If this plural form is not used in your language, leave the string empty. You need not translate this string. More info: http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html"
+	},
+	"Tab_few": {
+		"message": "",
+		"description": "LOCALIZATION NOTE: Please specify the correct plural form for this category. If this plural form is not used in your language, leave the string empty. You need not translate this string. More info: http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html"
+	},
+	"Tab_many": {
+		"message": "",
+		"description": "LOCALIZATION NOTE: Please specify the correct plural form for this category. If this plural form is not used in your language, leave the string empty. You need not translate this string. More info: http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html"
+	},
+	"Tab_other": {
+		"message": "Tabs",
+		"description": "LOCALIZATION NOTE: Please specify the correct plural form for this category. If this plural form is not used in your language, leave the string empty. You need not translate this string. More info: http://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html"
+	},
+	"Tab": {
+		"message": "タブ"
+	},
+	"Tabs": {
+		"message": "タブ"
+	},
+	"H_shortcuts": {
+		"message": "キーボードショートカット"
+	},
+	"shortcuts_A": {
+		"message": "このキーボードショートカットを使用すると、サイドバーの表示と非表示を切り替えることができます"
+	},
+	"shortcuts_B": {
+		"message": "このキーボードショートカットを使用すると、ポップアップの表示と非表示を切り替えることができます"
+	},
+	"Permissions_txt": {
+		"message": "機能するには、いくつかの権限が必要です。 拡張機能の作成者は、本当に必要な承認だけが要求されていることを保証します。"
+	},
+	"Permissions_link": {
+		"message": "権限の詳細"
+	},
+	"OP_in": {
+		"message": "in"
+	},
+	"OP_PopupWidth": {
+		"message": "ポップアップの幅"
+	},
+	"OP_PopupWidth_txt": {
+		"message": "ここでポップアップウィンドウの幅を指定できます。"
+	},
+	"OP_SearchOn": {
+		"message": "検索機能"
+	},
+	"OP_SearchOn_txt": {
+		"message": "検索機能は起動時にすでに開いているはずです。"
+	},
+	"audioTab": {
+		"message": "タブをミュートまたはミュートの解除をします。"
+	},
+	"HiddenTabs": {
+		"message": "非表示"
+	},
+	"TabsHidden": {
+		"message": "非表示のタブ"
+	},
+	"OP_HiddenTabsList": {
+		"message": "非表示のタブ"
+	},
+	"OP_HiddenTabsList_txt": {
+		"message": "追加リストに非表示のタブを表示します。"
+	},
+	"Symbols_F": {
+		"message": "- 可聴メディアコンテンツ付きのタブ"
+	}
+}
